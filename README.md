@@ -1,4 +1,4 @@
-# Hi, I'm Srinivas Vemula 👋
+# Hi, I'm Srinivas Vemula 
 
 I am a **B.Tech Computer Science Engineering student** with a strong foundation in **programming, full stack development, and AI technologies**. I enjoy solving real-world problems through clean, scalable, and practical software solutions.
 
@@ -6,7 +6,7 @@ I am particularly interested in **backend systems, full stack applications, and 
 
 ---
 
-## 🚀 What I’m Currently Doing
+##  What I’m Currently Doing
 - Working as a **Full Stack Developer Intern**
 - Building real-world applications using **Java, Python, Node.js, and modern web technologies**
 - Strengthening problem-solving and system design skills
@@ -14,7 +14,7 @@ I am particularly interested in **backend systems, full stack applications, and 
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 **Programming Languages**
 - Java, Python, JavaScript, TypeScript
@@ -41,13 +41,13 @@ I am particularly interested in **backend systems, full stack applications, and 
 
 ---
 
-## 📜 Certifications
+##  Certifications
 - **ServiceNow Certified System Administrator**
 - **Google Cloud Computing Foundations**
 
 ---
 
-## 🤝 What You’ll Find Here
+##  What You’ll Find Here
 This GitHub profile contains:
 - Java programs and problem-solving practice
 - Full stack and backend-focused learning work
@@ -56,7 +56,7 @@ This GitHub profile contains:
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 - **GitHub:** https://github.com/srinivasvemula5  
 - **LinkedIn:** https://www.linkedin.com/in/srinivas-vemula-708a37342  
 
